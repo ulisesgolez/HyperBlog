@@ -5,3 +5,5 @@ Ulises González tiene 22 años y nació en Argentina.
 Hoy hablaremos de su historia.
 
 En camara parece alto pero la verdad no es tan alto.
+
+Hoy se profesionaliza mientras está desarrollando la plataforma de Glouni.
